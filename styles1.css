@@ -1,0 +1,12 @@
+h2, li{
+    height: 32px;
+    padding-left: 30px;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #d6d6d6;
+    font-size: 1.8em;
+    color: #696969;
+    background: url(images/img08.jpg) no-repeat 4px;
+}
+ul{
+    list-style: none;
+}
